@@ -55,8 +55,8 @@ City_name = "Delhi"
 print(City_name)
 
 """
-Filename: PythonFundamentals1part1.py
-Topic: Python Print Function And Basics
+Filename: PythonFundamentals1part2.py
+Topic: Python Variables, Indentation, Identifier Rules.
 Author: Divya P
 Date: 20-02-2026
 """
