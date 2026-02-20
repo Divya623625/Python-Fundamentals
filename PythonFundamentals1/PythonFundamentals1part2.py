@@ -27,7 +27,7 @@ $35=123 Wrong
 
 Indentifier Rules
 1. Can start with Eng letters 'A-Z', 'a-z'
-2. Can start with Digits 0-9
+2. Can start with Digits [ 0-9 ]
 3. Can use Underscore_
 Example -  _name
 4. Names should be meaningful
