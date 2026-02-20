@@ -7,10 +7,10 @@ This File contains:
 -Character Set in Python
 """
 print("Hello World!")
-print("Apna college")
+print("Python World")
 print("Hello world","with python")
 print("hello \nworld","with python")
-print("Welcome to Apna College")
+print("Welcome to Python World")
 print("Hello World with Python!")
 print("Hello\nworld","With Python")
 
