@@ -1,5 +1,5 @@
 """
-Variables
+Variables in Python
 x=5
 a=25
 a2 + b2
