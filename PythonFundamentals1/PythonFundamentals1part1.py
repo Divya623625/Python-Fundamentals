@@ -36,7 +36,7 @@ Character set means all characters that python allows us to use in a program
 - All ASCII and Unicode characters as part of data and literals
 
 Filename: PythonFundamentals1part1.py
-Topic: Python Print Function And Basics 
+Topic: Python Print Function And Basics.
 Author: Divya P
 Date: 20-02-2026
 """
