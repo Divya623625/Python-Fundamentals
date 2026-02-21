@@ -61,7 +61,7 @@ print(City_name)
 
 """
 Filename: PythonFundamentals1part2.py
-Topic: Python Variables, Indentation, identifiers, Identifier Rules.
+Topic: Python Variables, Indentation, Identifiers, Identifier Rules.
 Author: Divya P
 Date: 20-02-2026
 """
