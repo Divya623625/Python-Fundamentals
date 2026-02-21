@@ -1,4 +1,4 @@
-# Count the number of i's in the word artificial intelligence"
+# Count the number of i's in the word artificial intelligence."
 word="artificial intelligence"
 #count the number of i's => 5
 count=0
