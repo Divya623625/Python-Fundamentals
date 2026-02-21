@@ -1,4 +1,5 @@
 ''' 
+Python Variable naming convention-
 # Snake_case : Words are seperated using _ , lowercase letters : Example - tot_price=100
 # Camelcase : First word is small, next words start with capital letters : Example - totPrice 
 # Pascalcase : All words start with capital letters : Example - TotPrice 
