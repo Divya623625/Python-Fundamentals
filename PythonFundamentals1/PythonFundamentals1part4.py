@@ -42,8 +42,9 @@ Keywords are reserved words which cannot be used as variable names
 # 1. Single-line comment
 # This is a single-line comment
 x = 10  #assigning value to x
-print(x)  
-False = 123
+print(x)  #Prints the value of x
+
+Value = 123
 print(False)
 
 # 2. Multi-line comment
@@ -58,15 +59,10 @@ used for explanations
 Multi-line comment
 example
 '''
-"""
 
+"""
 3. Why comments are used
 => To explain code
 => To make code easy to understand
 => For debugging (temporarily disabling code)
-
-Filename: PythonFundamentals1part4.py
-Topic: Python Keywords, Comments
-Author: Divya P
-Date: 20-02-2026
 """
