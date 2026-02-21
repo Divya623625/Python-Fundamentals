@@ -16,8 +16,13 @@ So: variable = label, value = object in memory
 
 Indentation in Python 
 Indentation is very important in Python and Spacing also
+
+Identifiers In Python
+Identifiers in Python:
+Identifiers are the names used to identify variables, functions, classes, or objects in Python.
 Identifiers example=age, PI, name are identifiers 
 even function names are called Identifiers
+
 Python is Case sensitive
 SQL/HTML is not Case sensitive
 <body> Correct
@@ -56,7 +61,7 @@ print(City_name)
 
 """
 Filename: PythonFundamentals1part2.py
-Topic: Python Variables, Indentation, Identifier Rules.
+Topic: Python Variables, Indentation, identifiers, Identifier Rules.
 Author: Divya P
 Date: 20-02-2026
 """
