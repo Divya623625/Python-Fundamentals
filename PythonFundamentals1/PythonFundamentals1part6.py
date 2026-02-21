@@ -70,7 +70,7 @@ print(x | y)
 print(x<<1) 
 print(x>>1) 
 
-#Membership Operators - Membership Operators check whether a value is present in a list, tuple, string, etc
+#Membership Operators - Membership Operators check whether a value is present in a list, tuple, string, etc.
 '''
 in - Present
 not in - Not Present in
