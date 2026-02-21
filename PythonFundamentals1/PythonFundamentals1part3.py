@@ -67,5 +67,9 @@ print(type(age))
 print(type(name))
 print(type(PI))
 
-
-
+"""
+Filename: PythonFundamentals1part3.py
+Topic: Python Datatypes
+Author: Divya P
+Date: 20-02-2026
+"""
