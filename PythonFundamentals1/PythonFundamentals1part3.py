@@ -18,3 +18,19 @@ print(type(list))
 print(type(tuple))
 print(type(set))
 print(type(dict))
+
+"""
+Data Types in Python
+A data type defines the type of value a variable can store.
+
+int → whole numbers
+float → decimal numbers
+complex → numbers with real + imaginary part
+str (string) → text/characters
+bool → True or False
+list → ordered, changeable collection
+tuple → ordered, unchangeable collection
+set → unordered, no duplicate values
+dict (dictionary) → key–value pairs
+NoneType → no value / empty value
+"""
