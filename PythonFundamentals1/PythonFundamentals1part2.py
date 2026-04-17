@@ -1,3 +1,11 @@
+"""
+Variables in Python
+A variable is a name given to a memory location where data is stored.
+
+Identifiers in Python 
+An identifier is the name given to a variable, function, class, etc.
+"""
+
 name = "Divya P"
 age = 19
 PI = 3.14
