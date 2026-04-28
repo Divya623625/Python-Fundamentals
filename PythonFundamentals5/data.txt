@@ -1,0 +1,6 @@
+This is a text file
+Python is an easy and beginner-friendly programming language.
+It uses indentation instead of brackets.
+Python supports object-oriented programming (OOP).
+It has built-in data types like list, tuple, set, and dictionary.
+Python is widely used in data science, web development, and automation.
